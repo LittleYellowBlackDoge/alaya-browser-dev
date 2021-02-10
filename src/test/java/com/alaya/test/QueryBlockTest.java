@@ -12,6 +12,6 @@ public class QueryBlockTest {
 
     @Test
     public void queryTest01() {
-
+        System.out.println("这里写测试用例");
     }
 }
